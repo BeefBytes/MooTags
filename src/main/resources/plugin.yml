@@ -1,0 +1,7 @@
+name: MooTags
+main: ${project.groupId}.${project.artifactId}
+version: ${project.version}
+softdepend: [PlaceholderAPI]
+commands:
+  tags:
+    permission: mootags.use
