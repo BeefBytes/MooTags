@@ -1,0 +1,2 @@
+# MooTags
+Tags for minecraft
